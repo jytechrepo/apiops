@@ -1,0 +1,41 @@
+{
+  "properties": {
+    "alwaysLog": "allErrors",
+    "backend": {
+      "request": {
+        "body": {
+          "bytes": 0
+        },
+        "headers": []
+      },
+      "response": {
+        "body": {
+          "bytes": 0
+        },
+        "headers": []
+      }
+    },
+    "frontend": {
+      "request": {
+        "body": {
+          "bytes": 0
+        },
+        "headers": []
+      },
+      "response": {
+        "body": {
+          "bytes": 0
+        },
+        "headers": []
+      }
+    },
+    "httpCorrelationProtocol": "Legacy",
+    "logClientIp": true,
+    "loggerId": "/subscriptions/a0785fb0-6683-49d9-ad74-19ed79631418/resourceGroups/apimhol_jy_rg/providers/Microsoft.ApiManagement/service/apimhol-jy/loggers/apimhol-jy-appinsight",
+    "sampling": {
+      "percentage": 100,
+      "samplingType": "Fixed"
+    },
+    "verbosity": "information"
+  }
+}
