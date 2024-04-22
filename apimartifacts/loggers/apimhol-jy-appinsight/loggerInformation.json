@@ -1,0 +1,10 @@
+{
+  "properties": {
+    "credentials": {
+      "instrumentationKey": "{{Logger-Credentials--6603b19646346114f06c7ec4}}"
+    },
+    "isBuffered": true,
+    "loggerType": "applicationInsights",
+    "resourceId": "/subscriptions/a0785fb0-6683-49d9-ad74-19ed79631418/resourceGroups/apimhol_jy_rg/providers/microsoft.insights/components/apimhol_jy_appinsight"
+  }
+}

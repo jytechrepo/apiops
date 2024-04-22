@@ -1,0 +1,9 @@
+{
+  "properties": {
+    "displayName": "Star Wars",
+    "allowTracing": false,
+    "ownerId": "/subscriptions/a0785fb0-6683-49d9-ad74-19ed79631418/resourceGroups/apimhol_jy_rg/providers/Microsoft.ApiManagement/service/apimhol-jy/users/6602626446346114f06c7e11",
+    "scope": "/apis/star-wars",
+    "state": "active"
+  }
+}
